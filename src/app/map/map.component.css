@@ -1,0 +1,21 @@
+main {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 10%;
+    max-width: 100%;
+}
+
+.country-details {
+    text-align: center;
+    color: #1d1160;
+    background-color: #DDA0DD;
+    border-radius: 25px;
+    width: 20%;
+}
+
+path:hover {
+    fill: #662d91;
+    stroke: #E6E6FA;
+}
